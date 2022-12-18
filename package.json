@@ -2,7 +2,7 @@
   "homepage": "https://ramakantjangir21.github.io/personal-portfolio",
   "name": "p01_personal-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
