@@ -13,7 +13,7 @@ function App() {
       <Router basename="/personal-portfolio">
         <Navbar />
         <Routes>
-          <Route exact path="/personal-portfolio" element={<Home />} />
+          <Route path="/personal-portfolio" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<ProjectDisplay />} />
           <Route path="/education" element={<Education />} />
